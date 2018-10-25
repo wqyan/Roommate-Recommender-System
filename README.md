@@ -9,3 +9,10 @@
 ![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Roommate-Recommender-System/home.png)
 
 ![](https://raw.githubusercontent.com/wangruns/wangruns.github.io/master/images/project/Roommate-Recommender-System/review.png)
+
+
+
+
+------------------
+
+这个应用仅仅通过同学之间你给我点赞，我给你点赞，然后找到给我点点赞的所有人列表，选择室友，没有用推荐算法，不适合参考，，---wesley
